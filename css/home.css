@@ -1,0 +1,28 @@
+
+    #eyebrow{
+        color: #c49ffc;
+        font-size: 20px;
+        margin-top: 20px;
+        font-weight:600;
+    }
+
+    p{
+        font-size:  16px;
+        color: #ffffff;
+    }
+
+    #words{
+        font-family:Georgia;
+        font-size: 18px;
+        color: #747474;
+    }
+    #color{
+        font-family:Georgia;
+        font-size: 18px;
+        color: #c49ffc;
+    }
+
+  #front{
+      font-size: 60px;
+      font-family: Georgia;
+  }

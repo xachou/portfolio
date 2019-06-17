@@ -1,0 +1,116 @@
+
+#title2{
+    font-family: Georgia;
+    font-size: 25px;
+    color: #2b2c3f;
+    margin: 0px;
+}
+
+.title1{
+    font-family: Calibri;
+    font-size: 35px;
+    color: #2b2c3f;
+    margin: 30px 0px 6px 0px;
+}
+
+.title2{
+    font-family: Calibri;
+    font-size: 25px;
+    color: #2b2c3f;
+    margin: 30px 0px 6px 0px;
+}
+.container{
+
+    padding: 0px 40px;
+}
+.container-content{
+    margin: 0px 120px;
+}
+
+/*== Work Details ==*/
+
+
+#eyebrow{
+    color: #ebc341;
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight:600;
+}
+#text{
+    font-size: 30px;
+    font-family: Georgia;
+}
+
+p{
+    font-family: Georgia;
+    font-size:  20px;
+    color: #6c6c6c;
+}
+
+#tag{
+    color: #ffffff;
+    font-weight: 400;
+    background-color: #ebc341;
+    border-radius: 4px;
+    border: 1px solid #ebc341;
+}
+
+#word{
+
+    color: #ebc341;
+    font-size: 28px;
+    font-weight:400;
+}
+
+#intro{
+    font-size: 30px;
+    font-weight:500;
+    margin: auto;
+}
+
+#highlight{
+    border: 1px solid #ebc341;
+}
+
+.tracingback{
+    background-image: url("images/Tracing-images/title.jpeg");
+}
+
+#link{
+    color: #2b2c3f;
+}
+
+#number{
+    font-family: Georgia;
+    font-size: 50px;
+    color: #ebc341;
+}
+
+#appTag{
+    font-size: 20px;
+}
+#appSection{
+    font-size: 30px;
+    color: #ebc341;
+}
+ul{
+    margin: 10px 20px 20px;
+}
+li{
+    font-family: Calibri;
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+.jump{
+    margin: 80px 0px 10px;
+}
+
+.jumpTo{
+    font-family: Georgia;
+    font-size: 20px;
+}
+
+#link2{
+    color: #2b2c3f;
+}
